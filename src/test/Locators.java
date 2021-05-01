@@ -22,6 +22,8 @@ public class Locators {
 		driver.findElement(By.cssSelector("#Login")).click();
 		System.out.println(driver.findElement(By.cssSelector("div#error.loginError")).getText());
 
+	
+	System.out.println("This to check branch");
 	}
 
 }
