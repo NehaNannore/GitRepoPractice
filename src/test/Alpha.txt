@@ -1,8 +1,7 @@
 Alphabet
 a
 b
-c
-d
+
 
 Numeric
 1
