@@ -17,7 +17,7 @@ public class Demo {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 		// System.out.println(driver.getPageSource());
-		System.out.println("This is to test git untracked");
+	
 		
 
 		driver.get("http://yahoo.com");
